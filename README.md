@@ -1,5 +1,3 @@
-Inventory-Management-System
-
 Degree Level 2 Semester 2 Project: Inventory Management System
 
 Description: A system to manage inventory efficiently; view current stock, add new items, sell existing items, and exit the program, with low stock items highlighted.
